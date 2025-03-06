@@ -140,7 +140,7 @@
 <!-- Main Container -->
 <div class="container">
     <h1>Hi to KK AWS</h1>
-    <marquee<h1>I am from Nellore</h1></marquee>
+    <marquee><h1>I am from Nellore</h1></marquee>
     
     <!-- Server Side Info -->
     <div class="info-box">
