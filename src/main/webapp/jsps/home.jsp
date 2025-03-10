@@ -140,7 +140,7 @@
 <!-- Main Container -->
 <div class="container">
     <h1>Hi to KK DEVOPS</h1>
-    <marquee><h1>NEW BATCH ON march 16th pls refer</h1></marquee>
+    <marquee><h1>NEW BATCH ON march 16th pls</h1></marquee>
     
     <!-- Server Side Info -->
     <div class="info-box">
